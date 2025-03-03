@@ -7,9 +7,11 @@ public class RestaurantInfo {
         String state = "TX";
         String zipCode = "78901";
 
-        // Print the information
+        // Print restaurant details to the console
         System.out.println("Restaurant Name: " + restaurantName);
         System.out.println("Business Address: " + businessAddress);
-        System.out.println("City, State, Zip Code: " + city + ", " + state + " " + zipCode);
+
+        // Using String.format() for better formatting
+        System.out.println(String.format("City, State, Zip Code: %s, %s %s", city, state, zipCode));
     }
 }
