@@ -14,5 +14,6 @@ git clone https://github.com/aliramirez08/RestaurantInfoProject.git
 
 ## Sample Output
 
-## Screenshots
-Here is the program running in Eclipse:
+Below is a screenshot of the program running in Eclipse:
+
+![Eclipse Console Output](https://github.com/aliramirez08/RestaurantInfoProject/blob/main/CT1SS2%20Output.jpg)
